@@ -66,5 +66,3 @@ Each potentiometer controls one motor.
 Mohamed Abdelnabi
 Electrical Engineering Student
 
-Mohamed Lnoby  
-Electrical Engineering Student
